@@ -11,12 +11,12 @@ plugins {
 }
 
 android {
-    namespace = "com.Arturo254.opentune"
+    namespace = "com.arturo254.opentune"
     //noinspection GradleDependency
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.Arturo254.opentune"
+        applicationId = "com.arturo254.opentune"
         minSdk = 24
         targetSdk = 35
         versionCode = 125
