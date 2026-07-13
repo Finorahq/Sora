@@ -11,12 +11,12 @@ plugins {
 }
 
 android {
-    namespace = "com.Finorahq.sora"
+    namespace = "com.Arturo254.opentune"
     //noinspection GradleDependency
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.Finorahq.sora"
+        applicationId = "com.Arturo254.opentune"
         minSdk = 24
         targetSdk = 35
         versionCode = 125
